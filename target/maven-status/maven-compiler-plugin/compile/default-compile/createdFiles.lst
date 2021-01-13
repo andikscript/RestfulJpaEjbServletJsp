@@ -1,0 +1,8 @@
+com\javan\controller\SiswaServlet.class
+com\javan\model\SiswaDao.class
+com\javan\entity\Siswa.class
+com\javan\model\SiswaDaoLocal.class
+com\javan\sekolahwebapp\resources\JavaEE8Resource.class
+com\javan\sekolahwebapp\resources\SiswaServices.class
+com\javan\entity\Siswa_.class
+com\javan\sekolahwebapp\JAXRSConfiguration.class
