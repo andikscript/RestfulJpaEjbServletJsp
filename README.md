@@ -1,4 +1,4 @@
-# Restful Jpa Ejb Servlet Jsp
+# Restful (JAX-RS) JPA EJB Servlet JSP
 Restful Jpa Ejb Servlet Jsp
 Web Aplikasi Restful Api yang menggunakan konsep MVC dengan JPA Eclipse Link 2.0, EJB sebagai Model, Servlet sebagai Controller, dan html & css sebagai View
 dan JAX-RS untuk RESTful
