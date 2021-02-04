@@ -17,3 +17,10 @@ dan JAX-RS untuk RESTful
 
 ### Library :
 - [x] mysql-connector-java-8.0.22
+
+### Installation :
+1. Buka IDE (Netbeans 12 or up, Eclipse, Intellij other..)
+2. Instal Xampp, Import Database di folder 'database'
+3. Open Project ini di IDE
+4. Instal Web Server Payara dan Ubah Web Server Project ini ke Payara Server
+5. Jalankan - Done
