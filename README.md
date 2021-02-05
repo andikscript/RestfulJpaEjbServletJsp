@@ -13,7 +13,7 @@ dan JAX-RS untuk RESTful
 - [x] Payara Server
 
 ### Database :
-- [x] Mysql (user : andik & password : andik)
+- [x] Mysql
 
 ### Library :
 - [x] mysql-connector-java-8.0.22
